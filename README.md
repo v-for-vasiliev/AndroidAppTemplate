@@ -1,0 +1,2 @@
+# AndroidAppTemplate
+Android application template.
