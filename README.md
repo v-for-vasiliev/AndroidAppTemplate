@@ -1,2 +1,2 @@
-# AndroidAppTemplate
-Android application template.
+# Updater
+IT-Parter android applications updater
